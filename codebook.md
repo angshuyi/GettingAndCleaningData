@@ -29,7 +29,7 @@ The input data containts the following data files to assigned to a variable:
   <li>CompleteData is the combination of features, activity and subject</li>
   <li>Index columns that contains std or mean and ignore case sensative and assigned to requiredColumns</li>
   <li>create extractedData from columns from requiredColumns</li>
-  <li>Update descriptive names for activity for Activity column in <b>extractedData</b></li>
+  <li>Update descriptive names for activity for Activity column in extractedData</li>
   <li>Acronyms in extractedData like 'Mag', 'f' and 't' being replaced with descriptive labels 'Magnitude', 'Frequency' and 'Time'</li>
   <li>tidyData is created based on activity and subjects from extractedData</li>
   <li>outoput data from tidyData was writte to a file named Tidy.txt</li>
