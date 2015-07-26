@@ -12,9 +12,9 @@ The data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Input Data and variable assignment
-The input data containts the following data files to assigned to a variable:
+The input data contains the following data files to be assigned to a variable:
 <ul>
-  <li>featuresTrain stores data from X_train.txt</li>
+  <li>featuresTrain stored data from X_train.txt</li>
   <li>activityTrain stored data from y_train.txt</li>
   <li>subjectTrain stored data Data from subject_train.txt</li>
   <li>featuresTest stored data from X_test.txt</li>
@@ -24,10 +24,10 @@ The input data containts the following data files to assigned to a variable:
   <li>activityLabels stored data from activity_labels.txt</li>
   <li>subject is the combination of subjects in training and test data </li>
   <li>activity is the combination of activities in training and test data</li>
-  <li>features is the combination of feature test and trainiing data</li>
+  <li>features is the combination of feature test and training data</li>
   <li>featureNames is the features properties</li>
   <li>CompleteData is the combination of features, activity and subject</li>
-  <li>Index columns that contains std or mean and ignore case sensative and assigned to requiredColumns</li>
+  <li>Index columns that contains std or mean and ignore case sensitive and assigned to requiredColumns</li>
   <li>create extractedData from columns from requiredColumns</li>
   <li>Update descriptive names for activity for Activity column in extractedData</li>
   <li>Acronyms in extractedData like 'Mag', 'f' and 't' being replaced with descriptive labels 'Magnitude', 'Frequency' and 'Time'</li>
