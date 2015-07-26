@@ -32,7 +32,7 @@ The input data contains the following data files to be assigned to a variable:
   <li>Update descriptive names for activity for Activity column in extractedData</li>
   <li>Acronyms in extractedData like 'Mag', 'f' and 't' being replaced with descriptive labels 'Magnitude', 'Frequency' and 'Time'</li>
   <li>tidyData is created based on activity and subjects from extractedData</li>
-  <li>outoput data from tidyData was writte to a file named Tidy.txt</li>
+  <li>output data from tidyData was writte to a file named Tidy.txt</li>
 </ul>
 
 ## Output data file
