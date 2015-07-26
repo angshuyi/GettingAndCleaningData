@@ -26,6 +26,13 @@ The input data containts the following data files to assigned to a variable:
   <li>activity is the combination of activities in training and test data</li>
   <li>features is the combination of feature test and trainiing data</li>
   <li>featureNames is the features properties</li>
+  <li>CompleteData is the combination of features, activity and subject</li>
+  <li>Index columns that contains std or mean and ignore case sensative and assigned to requiredColumns</li>
+  <li>create extractedData from columns from requiredColumns</li>
+  <li>Update descriptive names for activity for Activity column in <b>extractedData</b></li>
+  <li>Acronyms in extractedData like 'Mag', 'f' and 't' being replaced with descriptive labels 'Magnitude', 'Frequency' and 'Time'</li>
+  <li>tidyData is created based on activity and subjects from extractedData</li>
+  <li>outoput data from tidyData was writte to a file named Tidy.txt</li>
 </ul>
 
 ## Output File
