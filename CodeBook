@@ -1,5 +1,5 @@
 ## CodeBook
-This document describes the variable definition used in <b>run_analysis.R</b> script to generates the tiday data (Tidy.txt).
+This document describes the variable definition used in <b>run_analysis.R</b> script to generates the tidy data (Tidy.txt).
 
 ## Data 
 The data collected from the accelerometers from the Samsung Galaxy S smartphone.
