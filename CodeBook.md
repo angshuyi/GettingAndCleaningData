@@ -35,5 +35,5 @@ The input data containts the following data files to assigned to a variable:
   <li>outoput data from tidyData was writte to a file named Tidy.txt</li>
 </ul>
 
-## Output File
+## Output data file
 Tidy.txt is a a space-delimited value file with header which contains the variable names that are easy to understand. The data in the files are values of mean and standard deviation.
